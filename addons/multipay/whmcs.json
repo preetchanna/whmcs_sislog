@@ -1,0 +1,29 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-extension",
+  "name": "multipay",
+  "version": "",
+  "license": "proprietary",
+  "category": "utilities",
+  "description": {
+    "name": "Multipay Addon",
+    "tagline": "This Multipay Addon allow you to query the Multipay Database to find all the transactions",
+    "long": "This Multipay Addon allow you to query the Multipay Database to find all the transactions",
+    "features": []
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "marketplace": {
+    "url": "https://marketplace.whmcs.com/group/ITCORE"
+  },
+  "support": {
+    "docs_url": "https://www.itcore.co.za"
+  },
+  "authors": [
+    {
+      "name": "ITCORE",
+      "homepage": "https:\/\/www.itcore.co.za\/"
+    }
+  ]
+}
